@@ -1,0 +1,44 @@
+header {
+    text-align: center;
+    background-color: rgb(33, 31, 31);
+    position: fixed;
+    width: 100%;
+    top: 0%;
+    margin: auto;
+}
+
+nav{
+    position: sticky;
+    top: 0%;
+}
+
+nav, a{
+    margin: 10px;
+}
+
+main {
+    padding: 10%;
+    margin: auto;
+    display: block;
+
+}
+
+section {
+    background-color: rgb(227, 223, 223);
+    text-decoration: rgb(23, 23, 23);
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 20px;
+    margin-top: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+footer {
+    text-align: center;
+    color: white;
+    background-color: rgb(33, 31, 31);
+    padding: 5px;
+    width: 100%;
+    margin: 0%;
+}
